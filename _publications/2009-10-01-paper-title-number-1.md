@@ -3,7 +3,7 @@ title: "Peringkas Teks Otomatis Bahasa Indonesia secara Abstraktif Menggunakan M
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2021-04-01
 venue: 'eProceedings of Engineering'
 slidesurl: 'https://openlibrarypublications.telkomuniversity.ac.id/index.php/engineering/article/view/14732'
