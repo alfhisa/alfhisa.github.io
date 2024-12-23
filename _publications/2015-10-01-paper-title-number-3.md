@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Deep Learning and Explainable AI for Accurate and Interpretable Software Defect Prediction"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+date: 2024-11-30
+venue: 'The 2024 International Conference on Data Engineering and Enterprise System (ICDEES 2024)'
+slidesurl: ''
+paperurl: ''
+citation: 'Saputra, M. A., Lumban Gaol, F., Soeparno, H., & Arifin, Y. (2024). Deep learning and explainable AI for accurate and interpretable software defect prediction. In Proceedings of The 2024 International Conference on Data Engineering and Enterprise System (The ICDEES 2024). Yogyakarta, Indonesia, November 29-30, 2024.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Software defect prediction is an essential aspect of software development process as defects significantly impact software reliability and usability. Several methods have been studied to predict the defects in software, but most of the time, the prediction result lack of transparancy about which features actually contributes to the prediction results. In this study, we adopt the Convolutional Neural Network (CNN) model for defect prediction, then apply the Local Interpretable Model-Agnostic Explanations (LIME) to gain interpretability on the prediction result. In order to address the data imbalance issue, we apply the Synthetic Minority Over-sampling Technique (SMOTE). Experiments on the NASA Promise repository datasets (CM1, JM1, KC1, KC2, and PC1) shows that the model achieve accuracy ranging from 81% to 92% across the dataset. Furthermore, through the LIME analysis, some metrics such as Lines of Code (LoC) and Effort (e) give more substantial influence in the defect predictions.
