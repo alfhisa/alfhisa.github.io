@@ -17,20 +17,21 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Associate Lecturer Specialist S2, (2024 - still counting)
+  * BINUS University
+  * Duties includes: Lecturing and Researching
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Assistant, (2022 - 2023)
+  * Faculty of Computer Science, University of Indonesia
+  * Machine Learing and Computer Vision Laboratory
+  * Duties included: Doing research in sign language recognition using object detection
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Co-founder and Vice Director, (2019 - 2023)
+  * Big Edu Indonesia
+  * An edutech startup specializing in providing comprehensive school consulting, education, and research services.
+  * - Served over 3000 research mentoring clients and 22 school clients.
+    - Led the development of a user-friendly website.
+    - Built and managed a dynamic, effective team.
   
 Skills
 ======
