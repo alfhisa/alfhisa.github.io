@@ -3,7 +3,7 @@ title: "Deep Learning and Explainable AI for Accurate and Interpretable Software
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: ''
+# excerpt: ''
 date: 2024-11-30
 venue: 'The 2024 International Conference on Data Engineering and Enterprise System (ICDEES 2024)'
 slidesurl: ''

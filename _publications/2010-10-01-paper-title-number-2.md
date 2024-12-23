@@ -3,7 +3,7 @@ title: "Recognizing Indonesian sign language (Bisindo) gesture in complex backgr
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: ''
+# excerpt: ''
 date: 2024-08-26
 venue: 'Indonesian Journal of Electrical Engineering and Computer Science (IJEECS)'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
