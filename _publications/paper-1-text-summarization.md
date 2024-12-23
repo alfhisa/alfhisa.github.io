@@ -2,7 +2,7 @@
 title: "Peringkas Teks Otomatis Bahasa Indonesia secara Abstraktif Menggunakan Metode Long Short-Term Memory"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-1
+permalink: /publication/paper-1-text-summarization
 # excerpt: ''
 date: 2021-04-01
 venue: 'eProceedings of Engineering'

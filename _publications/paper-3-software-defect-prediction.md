@@ -2,7 +2,7 @@
 title: "Deep Learning and Explainable AI for Accurate and Interpretable Software Defect Prediction"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/paper-3-software-defect-prediction
 # excerpt: ''
 date: 2024-11-30
 venue: 'The 2024 International Conference on Data Engineering and Enterprise System (ICDEES 2024)'
