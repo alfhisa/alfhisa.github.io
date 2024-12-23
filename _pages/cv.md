@@ -32,6 +32,18 @@ Work experience
   * - Served over 3000 research mentoring clients and 22 school clients.
     - Led the development of a user-friendly website.
     - Built and managed a dynamic, effective team.
+
+* Tutor, (2021 - 2022)
+  * S1 PJJ Informatika, Telkom University
+  * Tutoring Mathematical Logic
+
+* Laboratory Assistant, (2019 - 2021)
+  * Artificial Intelligence Laboratory
+  * School of Computing, Telkom University
+
+* Teaching Assistant, (2018 - 2020)
+  * School of Computing, Telkom University
+  * Assisting in subject: Basic Algorithm, Discrete Mathemathics, and Artificial Intelligence
   
 Skills
 ======
