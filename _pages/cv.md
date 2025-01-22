@@ -45,15 +45,6 @@ Work experience
   * School of Computing, Telkom University
   * Assisting in subject: Basic Algorithm, Discrete Mathemathics, and Artificial Intelligence
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
