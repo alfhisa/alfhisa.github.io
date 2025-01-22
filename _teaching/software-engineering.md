@@ -44,4 +44,4 @@ COMP6100001 - Software Engineering | This course provides a comprehensive examin
 2. Project Estimation
 3. Git and Version Control Practical
 4. Test-Driven Development (TDD) Coding Session
-5. DevOps Pipeline Setup and Automation
+5. DevOps Pipeline Setup and Automation 
