@@ -10,7 +10,7 @@ redirect_from:
 I'm Alfhi, a lecturer and also a Doctor of Computer Science student at BINUS University specializing in Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL). My current research explores AI-driven solutions for agriculture, such as early detection of diseases in oil palm plantations to improve productivity and sustainability. This website showcases my teaching, research projects, and publications. Feel free to explore and connect with me!
 
 ## Contact
-
+======
 Feel free to reach me out!
 
 - **Emails**:
