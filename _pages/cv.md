@@ -65,4 +65,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Coordinator of a non-profit organization [Kuala Inspirasi](https://kualainspirasi.com/) - [ig: @kualainspirasi](https://www.instagram.com/kualainspirasi/)
+
+
