@@ -11,46 +11,37 @@ location: "Jakarta, Indonesia"
 COMP6100001 - Software Engineering | This course provides a comprehensive examination of the principles, methodologies, and tools necessary for the structured development, deployment, and maintenance of high-quality software systems. Aimed at aspiring software engineers, it connects theoretical foundations with practical applications, equipping students to address real-world challenges in the software industry. The course is relevant to Object-Oriented Software Engineering and Advanced Topics in Software Engineering.
 
 ## Topics
-- The Nature of Software and Software Engineering
-- Software Processes and Development Life Cycle Models
-- Agile Principles and Scrum Framework
-- Metrics and Measurement
-- Software Process Improvement
-- Requirements Elicitation and Analysis
-- System Modeling and UML Diagrams
-- Software Design Principles
-- Software Architecture Design Concepts and Styles
-- Software Architecture Design Documentation and Patterns
-- Project Management and Planning
-- Project Estimation Techniques
-- Project Scheduling
-- Risk Analysis and Management
-- Software Configuration Management
-- Version Control Systems and Dependency Management
-- Fundamentals of Software Testing
-- Automated Testing and Test-Driven Development (TDD)
-- Software Maintenance Fundamentals
-- Managing Technical Debt
-- Introduction to DevOps Culture and Principles
-- DevOps Toolchains and Continuous Monitoring
-- Secure Software Development
-- Reliability Engineering and Fault Tolerance
-- Legal Issues, Social Impact, and Professional Ethics in Software Engineering
-- Emerging Trends in Software Engineering
+1. The Nature of Software and Software Engineering
+2. Software Processes and Development Life Cycle Models
+3. Agile Principles and Scrum Framework
+4. Metrics and Measurement
+5. Software Process Improvement
+6. Requirements Elicitation and Analysis
+7. System Modeling and UML Diagrams
+8. Software Design Principles
+9. Software Architecture Design Concepts and Styles
+10. Software Architecture Design Documentation and Patterns
+11. Project Management and Planning
+12. Project Estimation Techniques
+13. Project Scheduling
+14. Risk Analysis and Management
+15. Software Configuration Management
+16. Version Control Systems and Dependency Management
+17. Fundamentals of Software Testing
+18. Automated Testing and Test-Driven Development (TDD)
+19. Software Maintenance Fundamentals
+20. Managing Technical Debt
+21. Introduction to DevOps Culture and Principles
+22. DevOps Toolchains and Continuous Monitoring
+23. Secure Software Development
+24. Reliability Engineering and Fault Tolerance
+25. Legal Issues, Social Impact, and Professional Ethics in Software Engineering
+26. Emerging Trends in Software Engineering
 
 ## Tutorial
-- Agile/Scrum Simulation
-- UML Diagramming
-- Project Estimation
-- Git and Version Control Practical
-- Test-Driven Development (TDD) Coding Session
-- DevOps Pipeline Setup and Automation
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+1. Agile/Scrum Simulation
+2. UML Diagramming
+2. Project Estimation
+3. Git and Version Control Practical
+4. Test-Driven Development (TDD) Coding Session
+5. DevOps Pipeline Setup and Automation
