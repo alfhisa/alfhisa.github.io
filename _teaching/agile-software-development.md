@@ -1,7 +1,7 @@
 ---
 title: "Agile Software Development"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/agile-software-development
 venue: "BINUS University, School of Computer Science"
 date: 2025-02-03
