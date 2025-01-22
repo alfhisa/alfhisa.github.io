@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Software Engineering"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/software-engineering
