@@ -19,7 +19,7 @@ Work experience
 ======
 * Associate Lecturer Specialist S2, (2024 - still counting)
   * BINUS University
-  * Duties includes: Lecturing and Researching
+  * Duties includes: Lecture and Research
 
 * Research Assistant, (2022 - 2023)
   * Faculty of Computer Science, University of Indonesia
