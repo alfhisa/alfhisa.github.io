@@ -52,20 +52,21 @@ The following are tutorial repositories used in the tutorial sessions:
 
 <div style="display: flex; flex-direction: column; gap: 12px; margin-top: 1rem;">
 
-<a href="https://github.com/alfhisa/se-tutorial-git" target="_blank" style="display:inline-block; padding:10px 16px; background-color:#004080; color:#fff; text-decoration:none; border-radius:6px; font-weight:bold;"> 
+<a href="https://github.com/alfhisa/se-tutorial-git" target="_blank" style="display:inline-block; padding:10px 16px; background-color:#004080; color:#fff; text-decoration:none; border-radius:6px; font-weight:bold; transition: background-color 0.3s;" onmouseover="this.style.backgroundColor='#0059b3'" onmouseout="this.style.backgroundColor='#004080'"> 
 Git and Version Control Tutorial
 </a>
 
-<a href="https://github.com/alfhisa/se-tutorial-tdd" target="_blank" style="display:inline-block; padding:10px 16px; background-color:#004080; color:#fff; text-decoration:none; border-radius:6px; font-weight:bold;">
+<a href="https://github.com/alfhisa/se-tutorial-tdd" target="_blank" style="display:inline-block; padding:10px 16px; background-color:#004080; color:#fff; text-decoration:none; border-radius:6px; font-weight:bold; transition: background-color 0.3s;" onmouseover="this.style.backgroundColor='#0059b3'" onmouseout="this.style.backgroundColor='#004080'">
 Test-Driven Development (TDD) Tutorial
 </a>
 
-<a href="https://github.com/alfhisa/tutorial-tdd-bus-fare" target="_blank" style="display:inline-block; padding:10px 16px; background-color:#004080; color:#fff; text-decoration:none; border-radius:6px; font-weight:bold;">
+<a href="https://github.com/alfhisa/tutorial-tdd-bus-fare" target="_blank" style="display:inline-block; padding:10px 16px; background-color:#004080; color:#fff; text-decoration:none; border-radius:6px; font-weight:bold; transition: background-color 0.3s;" onmouseover="this.style.backgroundColor='#0059b3'" onmouseout="this.style.backgroundColor='#004080'">
 Test-Driven Development (TDD) Tutorial part 2
 </a>
 
-<a href="https://github.com/alfhisa/devops-tutorial-voting-app" target="_blank" style="display:inline-block; padding:10px 16px; background-color:#004080; color:#fff; text-decoration:none; border-radius:6px; font-weight:bold;">
+<a href="https://github.com/alfhisa/devops-tutorial-voting-app" target="_blank" style="display:inline-block; padding:10px 16px; background-color:#004080; color:#fff; text-decoration:none; border-radius:6px; font-weight:bold; transition: background-color 0.3s;" onmouseover="this.style.backgroundColor='#0059b3'" onmouseout="this.style.backgroundColor='#004080'">
 DevOps Pipeline Tutorial
 </a>
 
 </div>
+
