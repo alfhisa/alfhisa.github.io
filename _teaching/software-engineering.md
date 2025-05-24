@@ -45,3 +45,27 @@ COMP6100001 - Software Engineering | This course provides a comprehensive examin
 3. Git and Version Control Practical
 4. Test-Driven Development (TDD) Coding Session
 5. DevOps Pipeline Setup and Automation 
+
+## Repositories
+
+The following are tutorial repositories used in the tutorial sessions:
+
+<div style="display: flex; flex-direction: column; gap: 12px; margin-top: 1rem;">
+
+<a href="https://github.com/alfhisa/se-tutorial-git" target="_blank" style="display:inline-block; padding:10px 16px; background-color:#004080; color:#fff; text-decoration:none; border-radius:6px; font-weight:bold;"> 
+Git and Version Control Tutorial
+</a>
+
+<a href="https://github.com/alfhisa/se-tutorial-tdd" target="_blank" style="display:inline-block; padding:10px 16px; background-color:#004080; color:#fff; text-decoration:none; border-radius:6px; font-weight:bold;">
+Test-Driven Development (TDD) Tutorial
+</a>
+
+<a href="https://github.com/alfhisa/tutorial-tdd-bus-fare" target="_blank" style="display:inline-block; padding:10px 16px; background-color:#004080; color:#fff; text-decoration:none; border-radius:6px; font-weight:bold;">
+Test-Driven Development (TDD) Tutorial part 2
+</a>
+
+<a href="https://github.com/alfhisa/devops-tutorial-voting-app" target="_blank" style="display:inline-block; padding:10px 16px; background-color:#004080; color:#fff; text-decoration:none; border-radius:6px; font-weight:bold;">
+DevOps Pipeline Tutorial
+</a>
+
+</div>
