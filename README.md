@@ -1,4 +1,4 @@
-# Muhammad Alfhi Saputra — Academic Website
+# Muhammad Alfhi Saputra — Personal Academic Website
 
 📍 https://alfhisa.github.io/
 
