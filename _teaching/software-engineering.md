@@ -8,21 +8,7 @@ date: 2025-02-03
 location: "Jakarta, Indonesia"
 ---
 
-# 📘 Software Engineering
-
-**Course Code:** COMP6100001  
-**Level:** Undergraduate Course  
-**Offered by:** *BINUS University, School of Computer Science*  
-**Year:** 2025
-
----
-
-### 🧭 Course Description
-
-This course provides a comprehensive examination of the principles, methodologies, and tools necessary for the structured development, deployment, and maintenance of high-quality software systems.
-
-Aimed at aspiring software engineers, it connects theoretical foundations with practical applications, equipping students to address real-world challenges in the software industry. The course is relevant to **Object-Oriented Software Engineering** and **Advanced Topics in Software Engineering**.
-
+COMP6100001 - Software Engineering | This course provides a comprehensive examination of the principles, methodologies, and tools necessary for the structured development, deployment, and maintenance of high-quality software systems. Aimed at aspiring software engineers, it connects theoretical foundations with practical applications, equipping students to address real-world challenges in the software industry. The course is relevant to Object-Oriented Software Engineering and Advanced Topics in Software Engineering.
 
 ## Topics
 1. The Nature of Software and Software Engineering
