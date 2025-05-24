@@ -12,8 +12,8 @@ This is the source code of my personal academic website, built using [Academic P
 
 The site includes:
 
-- 🧑‍🏫 **About** — brief profile and academic biography  
-- 📄 **Curriculum Vitae** — downloadable CV  
+- 🧑‍🏫 **About** — brief profile  
+- 📄 **Curriculum Vitae** — CV  
 - 📚 **Publications** — list of journal and conference papers  
 - 💼 **Research** — overview of ongoing and past projects  
 - 🎓 **Teaching** — university-level course content, syllabus, and tutorials  
@@ -38,8 +38,8 @@ To create your own academic website based on this template:
 ## ✨ Credits
 
 This site was adapted from:
-- [Academic Pages](https://github.com/academicpages/academicpages.github.io) by Stuart Geiger  
-- [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) by Michael Rose
+- [Academic Pages](https://github.com/academicpages/academicpages.github.io)
+- [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)
 
 ---
 
