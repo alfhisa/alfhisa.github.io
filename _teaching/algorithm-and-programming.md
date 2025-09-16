@@ -2,7 +2,7 @@
 title: "Algorithm and Programming"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/software-engineering
+permalink: /teaching/algorithm-and-programming
 venue: "BINUS University, School of Computer Science"
 date: 2025-09-08
 location: "Jakarta, Indonesia"
