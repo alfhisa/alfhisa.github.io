@@ -2,6 +2,11 @@
 title: "Blog Posts"
 layout: archive
 permalink: /blog/
-entries_layout: grid
 author_profile: true
 ---
+
+<div class="grid__wrapper">
+{% for post in site.posts %}
+  {% include archive-single.html type="grid" %}
+{% endfor %}
+</div>
