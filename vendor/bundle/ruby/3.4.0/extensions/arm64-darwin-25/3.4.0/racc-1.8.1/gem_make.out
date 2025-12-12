@@ -1,0 +1,18 @@
+current directory: /Users/astronaut/Coding/alfhisa.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/astronaut/Coding/alfhisa.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251212-35845-el8bmo sitelibdir\=./.gem.20251212-35845-el8bmo clean
+
+current directory: /Users/astronaut/Coding/alfhisa.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251212-35845-el8bmo sitelibdir\=./.gem.20251212-35845-el8bmo
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/astronaut/Coding/alfhisa.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251212-35845-el8bmo sitelibdir\=./.gem.20251212-35845-el8bmo install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20251212-35845-el8bmo/racc
+
+current directory: /Users/astronaut/Coding/alfhisa.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251212-35845-el8bmo sitelibdir\=./.gem.20251212-35845-el8bmo clean
