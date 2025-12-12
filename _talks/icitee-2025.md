@@ -7,15 +7,16 @@ venue: "17th International Conference on Information Technology and Electrical E
 date: 2025-10-20
 location: "Bangkok, Thailand"
 gallery:
-  - url: /images/talks/icitee-2025/photo1.jpg
-    image_path: /images/talks/icitee-1.jpg
+  - url: talks/icitee-2025/icitee-1.jpg
+    image_path: talks/icitee-2025/icitee-1.jpg
     alt: "ICITEE 2025"
-  - url: /images/talks/icitee-2025/photo2.jpg
-    image_path: /images/talks/icitee-1.jpg
+  - url: talks/icitee-2025/icitee-2.jpg
+    image_path: talks/icitee-2025/icitee-2.jpg
     alt: "ICITEE 2025"
-  - url: /images/talks/icitee-2025/photo3.jpg
-    image_path: /images/talks/icitee-1.jpg
+  - url: talks/icitee-2025/icitee-3.jpg
+    image_path: talks/icitee-2025/icitee-3.jpg
     alt: "ICITEE 2025"
+
 ---
 
 I had the opportunity to attend and present my research paper, “Oil Palm Condition Monitoring via UAV Imagery Using YOLOv11 Enhanced for Class Imbalance,” at the 17th International Conference on Information Technology and Electrical Engineering (ICITEE 2025), held in Bangkok, Thailand, on October 20, 2025.
