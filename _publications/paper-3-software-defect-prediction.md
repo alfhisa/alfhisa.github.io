@@ -7,7 +7,7 @@ permalink: /publication/paper-3-software-defect-prediction
 date: 2024-11-30
 venue: 'The 2024 International Conference on Data Engineering and Enterprise System (ICDEES 2024)'
 slidesurl: ''
-paperurl: ''
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-032-01133-6_27'
 citation: 'Saputra, M. A., Lumban Gaol, F., Soeparno, H., & Arifin, Y. (2024). Deep learning and explainable AI for accurate and interpretable software defect prediction. In Proceedings of The 2024 International Conference on Data Engineering and Enterprise System (The ICDEES 2024). Yogyakarta, Indonesia, November 29-30, 2024.'
 ---
 
