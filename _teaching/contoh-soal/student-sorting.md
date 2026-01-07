@@ -4,8 +4,6 @@ collection: teaching
 permalink: /teaching/contoh-soal/student-sorting/
 ---
 
-# Student Sorting
-
 Howard is a teacher who has many students. One day, Howard combined all his student lists into a document randomly.  
 Howard wants to make the document **ordered by student identification number**, and he asks for your help.
 
@@ -34,7 +32,7 @@ The output must be **sorted by R in ascending order**.
 
 ---
 
-## Constraints
+<!-- ## Constraints
 
 - \( 1 \leq N \leq 1000 \)
 - \( |R| = 10 \) (length of string **R**)
@@ -42,7 +40,7 @@ The output must be **sorted by R in ascending order**.
 - **R** only consists of digits `0–9`
 - **M** only consists of letters `a–z` and `A–Z`
 
----
+--- -->
 
 ## Sample Input
 

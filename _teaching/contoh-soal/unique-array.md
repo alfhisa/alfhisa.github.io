@@ -4,8 +4,6 @@ collection: teaching
 permalink: /teaching/contoh-soal/uniquearray/
 ---
 
-# Unique Array
-
 You are given **two arrays of sorted numbers**.  
 Your task is to check whether **any number appears in both arrays or not**.
 
@@ -26,12 +24,12 @@ Your task is to check whether **any number appears in both arrays or not**.
 
 ---
 
-## Constraints
+<!-- ## Constraints
 
 - \( 1 \leq N1, N2 \leq 100000 \)
 - \( 1 \leq X1_i, X2_i \leq 10000000 \)
 
----
+--- -->
 
 ## Sample Input
 

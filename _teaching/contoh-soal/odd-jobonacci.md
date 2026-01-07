@@ -4,8 +4,6 @@ collection: teaching
 permalink: /teaching/contoh-soal/odd-jobonacci/
 ---
 
-# Odd Jobonacci
-
 Jojo is a genius in mathematics, especially in numerical sequences. He also created his own series called **Jobonacci**.
 
 Jobonacci is a sequence defined as follows:
@@ -31,11 +29,11 @@ Output a single line containing the **N-th Jobonacci number**.
 
 ---
 
-## Constraints
+<!-- ## Constraints
 
 - \( 1 \leq N \leq 25 \)
 
----
+--- -->
 
 ## Sample Input
 

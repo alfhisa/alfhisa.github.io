@@ -4,8 +4,6 @@ collection: teaching
 permalink: /teaching/contoh-soal/jojoshardestproblem/
 ---
 
-# Jojo's Hardest Problem (?)
-
 Jojo is enjoying his vacation with his family when suddenly an instant message came in. Apparently, there is a message from Lili:
 
 > *“Jojo, don’t forget to check the forum. Who knows if there is an assignment before the exam?”*
@@ -44,13 +42,13 @@ For each test case, output a single integer **Y**, the maximum value of function
 
 ---
 
-## Constraints
+<!-- ## Constraints
 
 - \( 1 \leq N \leq 4 \times 10^5 \)
 - \( 1 \leq A[i] \leq 10^6 \)
 - \( 1 \leq M \leq 10^{12} \)
 
----
+--- -->
 
 ## Sample Input 1
 

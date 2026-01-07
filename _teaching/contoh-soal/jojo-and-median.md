@@ -3,9 +3,6 @@ title: "Jojo and Median"
 collection: teaching
 permalink: /teaching/contoh-soal/jojo-and-median/
 ---
-
-# Jojo and Median
-
 Jojo and Lili have just learned statistics in their school. However, Jojo fell asleep when the teacher was explaining about the concept of **median**. As Jojo doesn’t want to get bad grades, he asked Lili to explain it to him.
 
 Lili explained that the **median** is the *middle value of a sorted list*. She then gave Jojo a list of items, each with its own **ID**, **name**, and **price**, and asked him to list all the IDs and names of all items which have prices **equal to or above the median price**.
@@ -30,14 +27,14 @@ Print the **IDs and names** of all items that are priced **equal to or above the
 
 ---
 
-## Constraints
+<!-- ## Constraints
 
 - \( 1 \leq N \leq 3 \times 10^4 \)
 - The ID of an item is a string containing **exactly 8 numerical digits**
 - \( 1 \leq |S| \leq 15 \)
 - \( 1 \leq P \leq 10^{12} \)
 
----
+--- -->
 
 ## Sample Input 1
 

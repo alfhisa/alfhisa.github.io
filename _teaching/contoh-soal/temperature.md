@@ -4,8 +4,6 @@ collection: teaching
 permalink: /teaching/contoh-soal/temperature/
 ---
 
-# Temperature
-
 WorldTemperature.com is a website that lists various temperatures of cities all over the world.  
 On their website, some cities use different temperature metrics: **Celsius (C)** and **Fahrenheit (F)**.
 
@@ -39,13 +37,13 @@ The output format must be:
 
 ---
 
-## Constraints
+<!-- ## Constraints
 
 - \( 1 \leq N \leq 100 \)
 - \( 1 \leq \text{Length of City Name} \leq 1000 \)
 - \( -60 \leq \text{temperature} \leq 224 \)
 
----
+--- -->
 
 ## Sample Input
 
