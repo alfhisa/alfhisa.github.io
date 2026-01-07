@@ -1,12 +1,7 @@
 ---
 title: "Unique Array"
 collection: teaching
-venue: ""
-location: ""
-date: ""
-hidden: true
-permalink: /teaching/contoh-soal/unique-array/
-
+permalink: /teaching/contoh-soal/uniquearray/
 ---
 
 # Unique Array

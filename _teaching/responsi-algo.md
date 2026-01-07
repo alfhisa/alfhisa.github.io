@@ -1,10 +1,7 @@
 ---
 title: "Responsi Algorithm & Programming"
 collection: teaching
-venue: ""
-location: ""
-date: ""
-permalink: /teaching/responsi-algo/
+permalink: /teaching/responsi-algo
 order: 1
 ---
 
