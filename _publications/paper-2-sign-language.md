@@ -6,7 +6,7 @@ permalink: /publication/paper-2-sign-language
 # excerpt: ''
 date: 2024-08-26
 venue: 'Indonesian Journal of Electrical Engineering and Computer Science (IJEECS)'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+slidesurl: ''
 paperurl: 'https://www.scopus.com/record/display.uri?eid=2-s2.0-85205426888&origin=inward&txGid=099a49ebbf693ccdc0a1dc28554b15dd'
 citation: 'Saputra, M. A., & Rakun, E. (2024). Recognizing Indonesian sign language (Bisindo) gesture in complex backgrounds. Indonesian Journal of Electrical Engineering and Computer Science, 36(3), 1583-1593. https://doi.org/10.11591/ijeecs.v36.i3.pp1583-1593'
 ---
