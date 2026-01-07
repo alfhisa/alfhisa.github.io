@@ -2,6 +2,9 @@
 title: "Jojo and Median"
 collection: teaching
 permalink: /teaching/contoh-soal/jojo-and-median/
+venue: "BINUS University, School of Computer Science"
+date: 2026-01-07
+location: "Jakarta, Indonesia"
 ---
 Jojo and Lili have just learned statistics in their school. However, Jojo fell asleep when the teacher was explaining about the concept of **median**. As Jojo doesn’t want to get bad grades, he asked Lili to explain it to him.
 

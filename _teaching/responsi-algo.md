@@ -2,6 +2,9 @@
 title: "Responsi Algorithm & Programming"
 collection: teaching
 permalink: /teaching/responsi-algo
+venue: "BINUS University, School of Computer Science"
+date: 2025-02-03
+location: "Jakarta, Indonesia"
 order: 1
 ---
 
