@@ -1,9 +1,6 @@
 ---
 title: "Jojo and Median"
 collection: teaching
-venue: ""
-location: ""
-date: ""
 permalink: /teaching/contoh-soal/jojo-and-median/
 ---
 
