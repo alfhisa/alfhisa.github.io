@@ -1,7 +1,9 @@
 ---
 title: "Responsi Algorithm & Programming"
 collection: teaching
-date: 2026-01-07
+venue: ""
+location: ""
+date: ""
 permalink: /teaching/responsi-algo/
 order: 1
 ---

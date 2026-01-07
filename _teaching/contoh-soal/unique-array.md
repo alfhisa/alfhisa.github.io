@@ -1,9 +1,12 @@
 ---
 title: "Unique Array"
 collection: teaching
-date: 2026-01-07
+venue: ""
+location: ""
+date: ""
+hidden: true
 permalink: /teaching/contoh-soal/unique-array/
-order: 1
+
 ---
 
 # Unique Array
