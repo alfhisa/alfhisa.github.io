@@ -1,7 +1,9 @@
 ---
 title: "Responsi Algorithm & Programming"
 collection: teaching
+date: 2026-01-07
 permalink: /teaching/responsi-algo/
+order: 1
 ---
 
 Halaman ini berisi **kumpulan contoh soal dan latihan responsi**
