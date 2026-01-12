@@ -2,7 +2,7 @@
 title: "Tutorial Web Design - SMA Saint John"
 collection: teaching
 type: "High School Extracurricular"
-permalink: /teaching/_teaching/php-mysql-stjohn-tutorial
+permalink: /teaching/php-mysql-stjohn-tutorial
 venue: "Saint John's Catholic School"
 date: 2026-01-13
 location: "Tangerang, Indonesia"
