@@ -16,7 +16,7 @@ Tutorial Web Design – SMA Saint John | This tutorial introduces high school st
 
 This tutorial is designed for **beginners (SMA level)** and guides you **step by step** from zero until you successfully build a **CRUD (Create, Read, Update, Delete)** web application using **PHP and MySQL** with **MAMP**.
 
----
+***
 
 ## What You Will Build
 
@@ -26,7 +26,7 @@ A simple **Student Management Web App** that can:
 - Edit student data
 - Delete student data
 
----
+***
 
 ## Requirements
 
@@ -35,7 +35,7 @@ A simple **Student Management Web App** that can:
 - Web browser (Chrome / Safari / Firefox)
 - Text editor (VS Code / TextEdit)
 
----
+***
 
 ## STEP 1 — Install and Run MAMP
 
@@ -56,7 +56,7 @@ http://localhost:8888
 
 You should see **Welcome to MAMP**.
 
----
+***
 
 ## STEP 2 — Open phpMyAdmin
 
@@ -67,7 +67,7 @@ http://localhost:8888/phpMyAdmin5/
 
 phpMyAdmin is a web interface to manage MySQL databases.
 
----
+***
 
 ## STEP 3 — Create Database and Table
 
@@ -89,7 +89,7 @@ CREATE TABLE students (
 
 If you see **Query OK**, the database is ready.
 
----
+***
 
 ## STEP 4 — Create Project Folder
 
@@ -111,7 +111,7 @@ htdocs/
  └── php-crud-demo/
 ```
 
----
+***
 
 ## STEP 5 — Create Project Files
 
@@ -125,7 +125,7 @@ edit.php
 delete.php
 ```
 
----
+***
 
 ## STEP 6 — Database Connection (config.php)
 
@@ -163,7 +163,7 @@ You should see:
 Database connected successfully
 ```
 
----
+***
 
 ## STEP 7 — READ Data (index.php)
 
@@ -220,7 +220,7 @@ Open:
 http://localhost:8888/php-crud-demo/index.php
 ```
 
----
+***
 
 ## STEP 8 — CREATE Data (add.php)
 
@@ -250,7 +250,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 <a href="index.php">Back</a>
 ```
 
----
+***
 
 ## STEP 9 — UPDATE Data (edit.php)
 
@@ -285,7 +285,7 @@ $student = $stmt->fetch();
 <a href="index.php">Back</a>
 ```
 
----
+***
 
 ## STEP 10 — DELETE Data (delete.php)
 
@@ -301,7 +301,7 @@ header("Location: index.php");
 exit;
 ```
 
----
+***
 
 ## 🎉 FINISHED
 
@@ -313,7 +313,7 @@ You have successfully built a **PHP & MySQL CRUD application**.
 - How CRUD works in real websites
 - Basic backend web development flow
 
----
+***
 
 ## Next Learning Ideas
 - Login & Register system
@@ -322,6 +322,6 @@ You have successfully built a **PHP & MySQL CRUD application**.
 - Better UI with CSS
 - Mini project development
 
----
+***
 
 Happy Coding 🚀
