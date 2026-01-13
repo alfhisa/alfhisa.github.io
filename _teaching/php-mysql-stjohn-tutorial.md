@@ -1,5 +1,5 @@
 ---
-title: "Tutorial Web Design - SMA Saint John"
+title: "Tutorial PHP & MySQL - SMA Saint John"
 collection: teaching
 type: "High School Extracurricular"
 permalink: /teaching/php-mysql-stjohn-tutorial/
@@ -14,7 +14,7 @@ Tutorial Web Design – SMA Saint John | This tutorial introduces high school st
 
 # PHP & MySQL CRUD Tutorial
 
-This tutorial is designed for **beginners (SMA level)** and guides you **step by step** from zero until you successfully build a **CRUD (Create, Read, Update, Delete)** web application using **PHP and MySQL** with **MAMP**.
+This tutorial is designed for **beginners** and guides you **step by step** from zero until you successfully build a **CRUD (Create, Read, Update, Delete)** web application using **PHP and MySQL** with **MAMP**.
 
 ***
 
