@@ -1,8 +1,8 @@
 ---
 title: "Tutorial PHP - MySQL"
-collection: teaching
+# collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/tutorial-php-mysql
+# permalink: /teaching/tutorial-php-mysql
 venue: "BINUS University, School of Computer Science"
 date: 2026-01-13
 location: "Jakarta, Indonesia"
