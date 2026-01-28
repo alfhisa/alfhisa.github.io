@@ -69,4 +69,3 @@ DevOps Pipeline Tutorial
 </a>
 
 </div>
-
