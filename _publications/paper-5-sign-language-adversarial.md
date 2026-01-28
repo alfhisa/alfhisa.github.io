@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the Adversarial Vulnerability of YOLOv11 for Indonesian Sign Language (BISINDO) Recognition"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/_publications/paper-5-sign-language-adversarial
 # excerpt: ''
 date: 2025-10-29

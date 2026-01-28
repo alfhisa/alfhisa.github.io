@@ -1,7 +1,7 @@
 ---
 title: "Online Gambling Promotion Detection in Indonesian YouTube Comments Using Semi-Supervised IndoBERT Classification"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/paper-4-online-gambling-comments-classification
 # excerpt: ''
 date: 2025-07-31

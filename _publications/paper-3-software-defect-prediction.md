@@ -1,7 +1,7 @@
 ---
 title: "Deep Learning and Explainable AI for Accurate and Interpretable Software Defect Prediction"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/paper-3-software-defect-prediction
 # excerpt: ''
 date: 2024-11-30

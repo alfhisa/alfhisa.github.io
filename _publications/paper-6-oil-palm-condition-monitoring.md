@@ -1,7 +1,7 @@
 ---
 title: "Oil Palm Condition Monitoring via UAV Imagery Using YOLOv11 Enhanced for Class Imbalance"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/_publications/paper-6-oil-palm-condition-monitoring
 # excerpt: ''
 date: 2025-10-20
