@@ -2,7 +2,7 @@
 title: "Software Engineering 2025/2026"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/software-engineering-2/
+permalink: /teaching/software-engineering-v2/
 venue: "BINUS University, School of Computer Science"
 date: 2026-02-02
 location: "Jakarta, Indonesia"
@@ -10,6 +10,7 @@ location: "Jakarta, Indonesia"
 
 COMP6100001 - Software Engineering | This course provides a comprehensive examination of the principles, methodologies, and tools necessary for the structured development, deployment, and maintenance of high-quality software systems. Aimed at aspiring software engineers, it connects theoretical foundations with practical applications, equipping students to address real-world challenges in the software industry. The course is relevant to Object-Oriented Software Engineering and Advanced Topics in Software Engineering.
 
+## Topics
 
 > **“This class is not just about learning concepts, but about learning how to think like a software engineer. Software is never built alone, so learn to communicate, collaborate, respect different ideas, make mistakes, ask questions, and keep improving.”**
 
