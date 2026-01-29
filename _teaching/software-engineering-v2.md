@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/software-engineering-v2/
 venue: "BINUS University, School of Computer Science"
-date: 2026-02-02
+date: 2026-01-28
 location: "Jakarta, Indonesia"
 ---
 
