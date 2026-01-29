@@ -2,7 +2,7 @@
 title: "Software Engineering 2025/2026"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/software-engineering-pt2/
+permalink: /teaching/software-engineering-pt2
 venue: "BINUS University, School of Computer Science"
 date: 2026-02-02
 location: "Jakarta, Indonesia"
