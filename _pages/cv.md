@@ -17,9 +17,17 @@ Education
 
 Work experience
 ======
-* Associate Lecturer Specialist S2, (2024 - still counting)
-  * BINUS University
-  * Duties includes: Lecture and Research
+* Research Officer, (2026 - *present*)
+  * School of Computer Science, BINUS University
+  * Duties includes: Coordinating research programs and community development activities.
+
+* Full-time Lecturer, (2025 - *present*)
+  * School of Computer Science, BINUS University
+  * Duties includes: Teaching, conducting research, contributing to academic service, and engaging in community development.
+
+* Associate Lecturer Specialist S2, (2024 - 2025)
+  * School of Computer Science, BINUS University
+  * Duties includes: Lecture and Research.
 
 * Research Assistant, (2022 - 2023)
   * Faculty of Computer Science, University of Indonesia
