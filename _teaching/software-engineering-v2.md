@@ -44,7 +44,7 @@ Your final grade will be calculated using the following components:
 
 The **AOL Project** is the most significant component of this course.
 
-- Conducted **in groups** (1 group consists of **5–6 students**)  
+- Conducted **in groups** (1 group consists of **3–5 students**)  
 - Each group is free to choose the **project topic**  
 - The **final outcome must be a software product**  
 - **Technology stack is flexible** and decided by each group
@@ -57,7 +57,7 @@ Further details, milestones, and evaluation criteria will be explained later in 
 
 ### 1. Kehadiran, Tepat Waktu, dan Partisipasi Aktif
 Kehadiran dan partisipasi aktif sangat penting. Diskusi, tanya jawab, dan praktik merupakan bagian utama dari proses belajar software engineering.  
-Keterlambatan masih dapat ditoleransi selama tidak mengganggu jalannya kelas, namun hal ini tidak untuk dieksploitasi dan harus digunakan secara bertanggung jawab.  
+Keterlambatan masih dapat ditoleransi selama tidak mengganggu jalannya kelas, namun hal ini **tidak untuk dieksploitasi** dan harus digunakan secara **bertanggung jawab**.  
 Untuk izin sakit, silakan menghubungi saya **sebelum kelas dimulai**. Apabila izin disampaikan setelah kelas berlangsung, silakan mengurusnya melalui **LSC (Lecturer Service Center)**.
 
 ### 2. Jujur, Etis, dan Bertanggung Jawab
