@@ -1,5 +1,5 @@
 ---
-title: "Agile Software Development"
+title: "Agile Software Development 2024/2025"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/agile-software-development
