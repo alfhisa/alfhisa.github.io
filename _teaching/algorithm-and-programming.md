@@ -1,5 +1,5 @@
 ---
-title: "Algorithm and Programming"
+title: "Algorithm and Programming 2025/2026"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/algorithm-and-programming

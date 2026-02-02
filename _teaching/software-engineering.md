@@ -1,5 +1,5 @@
 ---
-title: "Software Engineering"
+title: "Software Engineering 2024/2025"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/software-engineering
