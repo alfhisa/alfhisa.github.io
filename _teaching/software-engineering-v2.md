@@ -49,6 +49,13 @@ The **AOL Project** is the most significant component of this course.
 - The **final outcome must be a software product**  
 - **Technology stack is flexible** and decided by each group
 
+#### Deliverables for the AOL
+- The software (Code), could be a Github repository
+- The documentation (could be pdf, notion, github (.md file))
+- The presentation (present the project by the end of the semester)
+- The demo (video demo-ing the software)
+- The proposal (based on PKM-KC format -> requirement from school)
+
 Further details, milestones, and evaluation criteria will be explained later in the semester.
 
 ---
