@@ -147,4 +147,6 @@ If you have any questions related to this course, feel free to contact me:
 
 Let’s make this class a productive and meaningful learning experience 🚀
 
+## � Additional Resources
+
 <a href="/teaching/software-architecture-patterns/" class="btn btn--info">Software Architecture Patterns</a>
